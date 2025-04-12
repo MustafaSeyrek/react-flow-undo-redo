@@ -8,7 +8,7 @@ This project implements a custom undo/redo feature for React Flow using only ope
 - 🔁 Redo (Ctrl + Y)
 - 🔗 Seamless integration with React Flow
 - 🔂 Undo/redo logic powered by use-undoable v5.0.0
-- 🧻 TypeScript + Vite project setup
+- 🧩 TypeScript + Vite project setup
 
 ---
 
