@@ -39,7 +39,9 @@ npm run dev
 > ⚠️ This project is an independent open-source implementation created solely for educational and non-commercial purposes.  
 > It was built from scratch using only public, open-source libraries.  
 > No proprietary or licensed code from React Flow Pro or any commercial library was used.  
-> This project is **not affiliated with or endorsed by React Flow, xyflow.com, or any related entity**.
+> This project is **not affiliated with or endorsed by React Flow, xyflow.com, or any related entity**.  
+>  
+> **No reverse engineering was performed.** The undo/redo functionality was implemented independently based on general behavior, not internal logic.
 
 ---
 
